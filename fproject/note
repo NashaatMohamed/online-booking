@@ -1,0 +1,40 @@
+<?php
+error_reporting(0);
+session_start(); 
+$_SESSION["'] = $n1 ;
+
+session_start(); 
+$n1= $_SESSION["'];
+$row["]
+if( isset($_SESSION["']) )
+
+
+session_unset(); 
+session_destroy();
+
+
+include ('connect.php'); 
+$sql="INSERT INTO t (n) VALUES ('$n')"; 
+$sql="SELECT * FROM t WHERE n like %$n%"
+$sql = "UPDATE t SET n='$n"; 
+$sql = "DELETE FROM T WHERE n = '$n';
+$sql = "select * from info where mlanguage='$mlanguage'";
+
+
+$result = $connect->query($sql);
+ while ($row - $result->fetch_assoc()) {
+
+
+<?php echo $row@[ 'xxxxxx'] ?>
+
+
+action="fun/add.php" method="post" enctype="multipart/form-data";
+
+$wattachment=$_FILES['wattachment']['name'];
+$wattachmenttmb=$_FILES['wattachment']['tmp_name'];
+$upload_file='../file/'; 
+move_uploaded_file($wattachmenttmb, $upload_file. $wattachment);
+
+ header('Locatiọn: http://localhost/mysite/admin/admin.php') // back to page admin
+
+
